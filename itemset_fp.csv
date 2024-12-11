@@ -1,0 +1,46 @@
+,support,itemsets
+0,0.48623853211009177,frozenset({'SPX_Same'})
+1,0.3735255570117955,frozenset({'SLV_Up'})
+2,0.2961992136304063,frozenset({'GLD_Up'})
+3,0.23416339012669288,frozenset({'USO_Same'})
+4,0.3831367409349061,frozenset({'USO_Down'})
+5,0.3420707732634338,frozenset({'SLV_Down'})
+6,0.2747924858016601,frozenset({'GLD_Down'})
+7,0.22586282219309742,frozenset({'SPX_Down'})
+8,0.4290083005679336,frozenset({'GLD_Same'})
+9,0.382699868938401,frozenset({'USO_Up'})
+10,0.28789864569681084,frozenset({'SPX_Up'})
+11,0.28440366972477066,frozenset({'SLV_Same'})
+12,0.16644823066841416,"frozenset({'SLV_Up', 'SPX_Same'})"
+13,0.19702927042376583,"frozenset({'USO_Up', 'SLV_Up'})"
+14,0.11533420707732635,"frozenset({'SLV_Up', 'GLD_Same'})"
+15,0.24989078200087375,"frozenset({'GLD_Up', 'SLV_Up'})"
+16,0.12756662297946703,"frozenset({'GLD_Up', 'SPX_Same'})"
+17,0.145478374836173,"frozenset({'USO_Up', 'GLD_Up'})"
+18,0.10659676714722587,"frozenset({'GLD_Up', 'SLV_Up', 'SPX_Same'})"
+19,0.1328090869375273,"frozenset({'USO_Up', 'GLD_Up', 'SLV_Up'})"
+20,0.1402359108781127,"frozenset({'USO_Same', 'SPX_Same'})"
+21,0.11577107907383137,"frozenset({'USO_Same', 'GLD_Same'})"
+22,0.18086500655307994,"frozenset({'USO_Down', 'SPX_Same'})"
+23,0.14635211882918306,"frozenset({'USO_Down', 'GLD_Same'})"
+24,0.1799912625600699,"frozenset({'USO_Down', 'SLV_Down'})"
+25,0.16382699868938402,"frozenset({'SLV_Down', 'SPX_Same'})"
+26,0.10310179117518567,"frozenset({'SLV_Down', 'GLD_Same'})"
+27,0.2276103101791175,"frozenset({'SLV_Down', 'GLD_Down'})"
+28,0.1511577107907383,"frozenset({'USO_Down', 'GLD_Down'})"
+29,0.12013979903888161,"frozenset({'SPX_Same', 'GLD_Down'})"
+30,0.13018785495849716,"frozenset({'USO_Down', 'SLV_Down', 'GLD_Down'})"
+31,0.1000436871996505,"frozenset({'SLV_Down', 'SPX_Same', 'GLD_Down'})"
+32,0.14329401485364787,"frozenset({'USO_Down', 'SPX_Down'})"
+33,0.10441240716470074,"frozenset({'SLV_Down', 'SPX_Down'})"
+34,0.23853211009174313,"frozenset({'GLD_Same', 'SPX_Same'})"
+35,0.16688510266491918,"frozenset({'USO_Up', 'GLD_Same'})"
+36,0.1651376146788991,"frozenset({'USO_Up', 'SPX_Same'})"
+37,0.11533420707732635,"frozenset({'GLD_Same', 'SPX_Up'})"
+38,0.13586719091306249,"frozenset({'SLV_Up', 'SPX_Up'})"
+39,0.17212756662297946,"frozenset({'USO_Up', 'SPX_Up'})"
+40,0.2105723023154216,"frozenset({'SLV_Same', 'GLD_Same'})"
+41,0.10790738313674093,"frozenset({'SLV_Same', 'USO_Down'})"
+42,0.10222804718217562,"frozenset({'USO_Up', 'SLV_Same'})"
+43,0.1559633027522936,"frozenset({'SLV_Same', 'SPX_Same'})"
+44,0.11882918304936653,"frozenset({'SLV_Same', 'GLD_Same', 'SPX_Same'})"
